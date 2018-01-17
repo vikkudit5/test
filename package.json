@@ -1,0 +1,26 @@
+{
+  "name": "vikas",
+  "version": "1.0.0",
+  "description": "my first app",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "vikas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "bootstrap": "^3.3.7",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.31.5",
+    "react-dom": "^16.2.0",
+    "react-images-upload": "^1.1.1",
+    "react-images-uploader": "^1.1.0",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.5"
+  }
+}
